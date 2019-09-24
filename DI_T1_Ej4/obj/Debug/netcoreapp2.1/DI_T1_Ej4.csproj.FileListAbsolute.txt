@@ -1,0 +1,11 @@
+C:\Users\vane\source\repos\DI_T1\DI_T1_Ej4\bin\Debug\netcoreapp2.1\DI_T1_Ej4.deps.json
+C:\Users\vane\source\repos\DI_T1\DI_T1_Ej4\bin\Debug\netcoreapp2.1\DI_T1_Ej4.runtimeconfig.json
+C:\Users\vane\source\repos\DI_T1\DI_T1_Ej4\bin\Debug\netcoreapp2.1\DI_T1_Ej4.runtimeconfig.dev.json
+C:\Users\vane\source\repos\DI_T1\DI_T1_Ej4\bin\Debug\netcoreapp2.1\DI_T1_Ej4.dll
+C:\Users\vane\source\repos\DI_T1\DI_T1_Ej4\bin\Debug\netcoreapp2.1\DI_T1_Ej4.pdb
+C:\Users\vane\source\repos\DI_T1\DI_T1_Ej4\obj\Debug\netcoreapp2.1\DI_T1_Ej4.csproj.CoreCompileInputs.cache
+C:\Users\vane\source\repos\DI_T1\DI_T1_Ej4\obj\Debug\netcoreapp2.1\DI_T1_Ej4.AssemblyInfoInputs.cache
+C:\Users\vane\source\repos\DI_T1\DI_T1_Ej4\obj\Debug\netcoreapp2.1\DI_T1_Ej4.AssemblyInfo.cs
+C:\Users\vane\source\repos\DI_T1\DI_T1_Ej4\obj\Debug\netcoreapp2.1\DI_T1_Ej4.dll
+C:\Users\vane\source\repos\DI_T1\DI_T1_Ej4\obj\Debug\netcoreapp2.1\DI_T1_Ej4.pdb
+C:\Users\vane\source\repos\DI_T1\DI_T1_Ej4\obj\Debug\netcoreapp2.1\DI_T1_Ej4.csprojAssemblyReference.cache

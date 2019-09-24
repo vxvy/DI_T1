@@ -1,0 +1,9 @@
+C:\Users\vane\source\repos\DI_T1\DI_T1\bin\Debug\DI_T1.exe.config
+C:\Users\vane\source\repos\DI_T1\DI_T1\bin\Debug\DI_T1.exe
+C:\Users\vane\source\repos\DI_T1\DI_T1\bin\Debug\DI_T1.pdb
+C:\Users\vane\source\repos\DI_T1\DI_T1\obj\Debug\DI_T1.Form1.resources
+C:\Users\vane\source\repos\DI_T1\DI_T1\obj\Debug\DI_T1.Properties.Resources.resources
+C:\Users\vane\source\repos\DI_T1\DI_T1\obj\Debug\DI_T1_Ej1.csproj.GenerateResource.cache
+C:\Users\vane\source\repos\DI_T1\DI_T1\obj\Debug\DI_T1_Ej1.csproj.CoreCompileInputs.cache
+C:\Users\vane\source\repos\DI_T1\DI_T1\obj\Debug\DI_T1.exe
+C:\Users\vane\source\repos\DI_T1\DI_T1\obj\Debug\DI_T1.pdb

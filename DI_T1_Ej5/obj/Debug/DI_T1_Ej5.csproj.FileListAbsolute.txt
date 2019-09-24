@@ -1,0 +1,10 @@
+C:\Users\vane\source\repos\DI_T1\DI_T1_Ej5\obj\Debug\DI_T1_Ej5.csprojAssemblyReference.cache
+C:\Users\vane\source\repos\DI_T1\DI_T1_Ej5\obj\Debug\DI_T1_Ej5.Form1.resources
+C:\Users\vane\source\repos\DI_T1\DI_T1_Ej5\obj\Debug\DI_T1_Ej5.Properties.Resources.resources
+C:\Users\vane\source\repos\DI_T1\DI_T1_Ej5\obj\Debug\DI_T1_Ej5.csproj.GenerateResource.cache
+C:\Users\vane\source\repos\DI_T1\DI_T1_Ej5\obj\Debug\DI_T1_Ej5.csproj.CoreCompileInputs.cache
+C:\Users\vane\source\repos\DI_T1\DI_T1_Ej5\bin\Debug\DI_T1_Ej5.exe.config
+C:\Users\vane\source\repos\DI_T1\DI_T1_Ej5\bin\Debug\DI_T1_Ej5.exe
+C:\Users\vane\source\repos\DI_T1\DI_T1_Ej5\bin\Debug\DI_T1_Ej5.pdb
+C:\Users\vane\source\repos\DI_T1\DI_T1_Ej5\obj\Debug\DI_T1_Ej5.exe
+C:\Users\vane\source\repos\DI_T1\DI_T1_Ej5\obj\Debug\DI_T1_Ej5.pdb
